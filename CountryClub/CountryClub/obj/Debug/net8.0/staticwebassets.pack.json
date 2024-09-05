@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\CountryClub.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
       "Id": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
@@ -15,6 +19,30 @@
     {
       "Id": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
     },
     {
       "Id": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\wwwroot\\js\\login.js",

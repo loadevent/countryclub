@@ -1,3 +1,6 @@
+using CountryClub.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace CountryClub
 {
     public class Program
@@ -8,6 +11,8 @@ namespace CountryClub
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<CountryClubDbContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("conn")));
 
             var app = builder.Build();
 
@@ -24,7 +29,7 @@ namespace CountryClub
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Login}/{action=Index}/{id?}");
 
             app.Run();
         }
