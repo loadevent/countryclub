@@ -3,64 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\wwwroot\\css\\font-awesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\wwwroot\\css\\font-awesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\data\\countryclubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\data\\countryclubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\controllers\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\controllers\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\controllers\\servicebookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\controllers\\servicebookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\views\\services\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\views\\services\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\controllers\\providedservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\controllers\\providedservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\countryclub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\countryclub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|c:\\users\\kabelo tlhape\\source\\repos\\countryclub-project\\countryclub\\countryclub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48FFEA33-2486-423C-B11C-09875329C6DB}|CountryClub\\CountryClub.csproj|solutionrelative:countryclub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,152 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "CountryClub\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "CountryClub\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T14:32:37.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "font-awesome.css",
-              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\wwwroot\\css\\font-awesome.css",
-              "RelativeDocumentMoniker": "CountryClub\\wwwroot\\css\\font-awesome.css",
-              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\wwwroot\\css\\font-awesome.css",
-              "RelativeToolTip": "CountryClub\\wwwroot\\css\\font-awesome.css",
-              "ViewState": "AgIAALwLAAAAAAAAAAAAAMYLAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-05T14:29:00.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "login.css",
-              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\wwwroot\\css\\login.css",
-              "RelativeDocumentMoniker": "CountryClub\\wwwroot\\css\\login.css",
-              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\wwwroot\\css\\login.css",
-              "RelativeToolTip": "CountryClub\\wwwroot\\css\\login.css",
-              "ViewState": "AgIAAGwCAAAAAAAAAAAAAHcCAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-05T14:23:14.314Z",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Views\\Services\\Details.cshtml",
+              "RelativeDocumentMoniker": "CountryClub\\Views\\Services\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Views\\Services\\Details.cshtml",
+              "RelativeToolTip": "CountryClub\\Views\\Services\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:26:39.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "CountryClub\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Models\\Admin.cs",
+              "RelativeToolTip": "CountryClub\\Models\\Admin.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAC0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:21:49.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Views\\Shared\\Login.cshtml",
-              "RelativeDocumentMoniker": "CountryClub\\Views\\Shared\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Views\\Shared\\Login.cshtml",
-              "RelativeToolTip": "CountryClub\\Views\\Shared\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T14:24:31.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_LoginLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Views\\Shared\\_LoginLayout.cshtml",
-              "RelativeDocumentMoniker": "CountryClub\\Views\\Shared\\_LoginLayout.cshtml",
-              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Views\\Shared\\_LoginLayout.cshtml",
-              "RelativeToolTip": "CountryClub\\Views\\Shared\\_LoginLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T14:22:56.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Program.cs",
-              "RelativeDocumentMoniker": "CountryClub\\Program.cs",
-              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Program.cs",
-              "RelativeToolTip": "CountryClub\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T15:13:54.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProvidedServicesController.cs",
-              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\ProvidedServicesController.cs",
-              "RelativeDocumentMoniker": "CountryClub\\Controllers\\ProvidedServicesController.cs",
-              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\ProvidedServicesController.cs",
-              "RelativeToolTip": "CountryClub\\Controllers\\ProvidedServicesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T19:50:02.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ServicesController.cs",
-              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\ServicesController.cs",
-              "RelativeDocumentMoniker": "CountryClub\\Controllers\\ServicesController.cs",
-              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\ServicesController.cs",
-              "RelativeToolTip": "CountryClub\\Controllers\\ServicesController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T19:49:26.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProvidersController.cs",
-              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\ProvidersController.cs",
-              "RelativeDocumentMoniker": "CountryClub\\Controllers\\ProvidersController.cs",
-              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\ProvidersController.cs",
-              "RelativeToolTip": "CountryClub\\Controllers\\ProvidersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T19:48:09.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CountryClubDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Data\\CountryClubDbContext.cs",
-              "RelativeDocumentMoniker": "CountryClub\\Data\\CountryClubDbContext.cs",
-              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Data\\CountryClubDbContext.cs",
-              "RelativeToolTip": "CountryClub\\Data\\CountryClubDbContext.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwBwAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T10:12:09.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ServiceBookingsController.cs",
-              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\ServiceBookingsController.cs",
-              "RelativeDocumentMoniker": "CountryClub\\Controllers\\ServiceBookingsController.cs",
-              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\ServiceBookingsController.cs",
-              "RelativeToolTip": "CountryClub\\Controllers\\ServiceBookingsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T19:51:14.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Views\\Services\\Index.cshtml",
               "RelativeDocumentMoniker": "CountryClub\\Views\\Services\\Index.cshtml",
@@ -223,43 +76,60 @@
               "RelativeToolTip": "CountryClub\\Views\\Services\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T15:15:57.708Z"
+              "WhenOpened": "2024-09-05T20:18:06.272Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "CountryClub\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "CountryClub\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Views\\Shared\\Login.cshtml",
+              "RelativeDocumentMoniker": "CountryClub\\Views\\Shared\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Views\\Shared\\Login.cshtml",
+              "RelativeToolTip": "CountryClub\\Views\\Shared\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:14:48.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "CountryClub\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "CountryClub\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T15:08:23.195Z"
+              "WhenOpened": "2024-09-05T20:05:26.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "CountryClub\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Models\\Client.cs",
-              "RelativeToolTip": "CountryClub\\Models\\Client.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T13:48:10.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CountryClub.csproj",
-              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\CountryClub.csproj",
-              "RelativeDocumentMoniker": "CountryClub\\CountryClub.csproj",
-              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\CountryClub.csproj",
-              "RelativeToolTip": "CountryClub\\CountryClub.csproj",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CountryClub\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CountryClub\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-27T09:52:03.834Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T19:56:34.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CountryClub\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Kabelo Tlhape\\source\\repos\\CountryClub-Project\\CountryClub\\CountryClub\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CountryClub\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:32:37.949Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -42,4 +42,6 @@ public partial class Admin
 
     [InverseProperty("Admin")]
     public virtual ICollection<ServiceBooking> ServiceBookings { get; set; } = new List<ServiceBooking>();
+
+  
 }
