@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CountryClub/.vs/CountryClub/FileContentIndex/16ff301b-0ee9-4e9c-b1d6-7b685bdf5a25.vsidx
+/CountryClub/.vs/CountryClub/FileContentIndex/54880cf8-3701-4e82-87cd-439ac9593f9c.vsidx
+/CountryClub/.vs/CountryClub/FileContentIndex/70509a2e-b504-4f25-b0c2-ec349ef558df.vsidx
+/CountryClub/.vs/CountryClub/FileContentIndex/9dcd7829-573f-4d47-98fc-6e4a2098e52a.vsidx
+/CountryClub/.vs/CountryClub/FileContentIndex/a13fa1f8-3d67-4d16-96b6-9acb3f7926d6.vsidx
+/CountryClub/.vs/CountryClub/FileContentIndex/c295ae82-a8d2-4c8e-ad07-a5d75bd36ca4.vsidx
+/CountryClub/.vs/CountryClub/FileContentIndex/da0dcf04-4d7e-4fdb-b7d7-66656d5f2ea9.vsidx
+/CountryClub/.vs/CountryClub/FileContentIndex/eaab5e7e-e1a7-4c22-9f9e-388dcb315ead.vsidx
+/CountryClub/.vs/CountryClub/FileContentIndex/ed74a295-7d56-45dc-9821-b0fd9ab16598.vsidx
+/CountryClub/.vs/CountryClub/FileContentIndex/f91e83ec-5d8a-4768-b97b-1c9b6b512413.vsidx
+/CountryClub/.vs/CountryClub/FileContentIndex/16ff301b-0ee9-4e9c-b1d6-7b685bdf5a25.vsidx
+/CountryClub/.vs/CountryClub/FileContentIndex/a13fa1f8-3d67-4d16-96b6-9acb3f7926d6.vsidx
+/CountryClub/.vs/CountryClub/FileContentIndex/c295ae82-a8d2-4c8e-ad07-a5d75bd36ca4.vsidx
+/CountryClub/.vs/CountryClub/FileContentIndex/da0dcf04-4d7e-4fdb-b7d7-66656d5f2ea9.vsidx
+/CountryClub/.vs/CountryClub/FileContentIndex/f91e83ec-5d8a-4768-b97b-1c9b6b512413.vsidx
+*.vsidx
