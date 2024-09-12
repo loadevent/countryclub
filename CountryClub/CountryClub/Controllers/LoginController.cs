@@ -21,19 +21,24 @@ namespace CountryClub.Controllers
         [HttpPost]
         public async  Task<IActionResult> ValidateLogin()
         {
-            String userId = Request.Form["txtUserId"].ToString();
+            //String userId = Request.Form["txtUserId"].ToString();
+            String clientId = Request.Form["txtUserId"].ToString();
             String password = Request.Form["txtPassword"].ToString();
-            var ad = await _context.Admins.FirstOrDefaultAsync(a => a.UserId.Equals(userId));
+           // var ad = await _context.Admins.FirstOrDefaultAsync(a => a.UserId.Equals(userId));
+            var client = await _context.Clients.FirstOrDefaultAsync(c => c.ClientId.Equals(clientId));
 
-            if (ad == null)
+			var countryClubDbContext = _context.ProvidedServices.Include(p => p.Provider).Include(p => p.Service);
+
+			if (client == null)
             {
                 return NotFound();
             }
             else
             {
-                if (userId.Equals(ad.UserId) && password.Equals(ad.Password))
+                if (clientId.Equals(client.ClientId) && password.Equals(client.Password))
                 {
-                    return RedirectToAction("Index", "Services", await _context.Services.ToListAsync());
+                   // return RedirectToAction("Index", "Services", await _context.Services.ToListAsync());
+                    return RedirectToAction("Index", "ProvidedServices", await _context.ProvidedServices.Include(p => p.Provider).Include(p => p.Service).ToListAsync());
                 }
                 else
                 {

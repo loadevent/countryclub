@@ -4,22 +4,33 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Provided Services</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+
+@* @Html.DropDownList("ProviderDropDownList",(SelectList)ViewBag.DropDownList); *@
 <table class="table">
     <thead>
         <tr>
             <th>
+                @Html.DisplayNameFor(model => model.ServiceId)
+            </th> 
+            <th>
+                @Html.DisplayNameFor(model => model.Service.ServiceDesc)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.ServiceRate)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Provider)
+                @Html.DisplayNameFor(model => model.Provider.Firstname)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Service)
+                @Html.DisplayNameFor(model => model.Provider.Lastname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Provider.Email)
             </th>
             <th></th>
         </tr>
@@ -27,15 +38,24 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Service.ServiceId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Service.ServiceDesc)
+                </td>
             <td>
                 @Html.DisplayFor(modelItem => item.ServiceRate)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Provider.ProviderId)
+                @Html.DisplayFor(modelItem => item.Provider.Firstname)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Service.ServiceId)
+                @Html.DisplayFor(modelItem => item.Provider.Lastname)
             </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Provider.Email)
+                </td>
             <td>
                 @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
                 @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
